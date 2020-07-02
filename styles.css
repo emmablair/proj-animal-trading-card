@@ -1,0 +1,78 @@
+#img {
+    width: 300px;
+    height: 168.5px;
+    padding: 0;
+    margin: 10px;
+    border: 1.5px solid orange;
+    box-shadow: 10px 10px 5px #875500;
+}
+
+.funfact {
+    font-style: italic;
+}
+
+.border-info {
+    width: 300px;
+    border: 1.5px solid orange;
+    margin: 10px;
+    box-shadow: 10px 10px 5px #875500;
+}
+
+.border-main {
+    width: 321px;
+    border: 1.5px solid orange;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 5px #875500;
+}
+
+.background-image {
+    background-image: url(https://pixy.org/src/35/357392.jpg);
+    object-fit:contain;
+}
+
+.background {
+    background-color: yellow;
+}
+
+h1 {
+    width: 300px;
+    padding: 10px;
+    margin: 0;
+    font-family: "bangers", cursive;
+    letter-spacing: 4px;
+    font-size: 30pt;
+    text-shadow: 5px 5px 5px #875500;
+}
+
+span {
+    font-weight: bold;
+    font-size: 12pt;
+    color: #000000;
+}
+
+p {
+    font-size: 10pt;
+    padding: 10px;
+    color: #d98a02;
+}
+
+li {
+    list-style: none;
+    font-size: 10pt;
+    padding: 0.2em;
+    color: #d98a02;
+    margin-left: -30px;
+}
+
+div span {
+    font-family: "Bebas Neue", cursive;
+}
+
+div ul {
+    font-family: 'Roboto', sans-serif;
+}
+
+div p {
+    font-family: 'Roboto', sans-serif;
+}
